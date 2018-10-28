@@ -1,2 +1,2 @@
 # Just-Try-Web
-Just try HTML, JavaScript, CSS.
+ Repository created for the exercise and improve knowledge of JavaScript, CSS, HTML.
